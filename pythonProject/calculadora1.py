@@ -2,7 +2,7 @@ class calculadora:
    v1 = int(input("Digite o primeiro numero: "))
    v2 = int(input("Digite o segundo numero: "))
 
-   operacao = input("Digite * ou / ")
+   operacao = input("Digite * ou /: ")
 
    multiplique = v1*v2
 
