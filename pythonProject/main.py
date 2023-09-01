@@ -1,5 +1,5 @@
 
-nome = input('Voce quer "tabuada" ou "calculadora" ')
+nome = input('Voce quer "tabuada" ou "calculadora": ')
 
 if nome == 'tabuada':
    import tabuada2
