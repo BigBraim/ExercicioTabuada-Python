@@ -1,7 +1,7 @@
 class tabuada1:
    numero = int(input("Digite um número: "))
 
-   operacao = input("Digite * ou / ")
+   operacao = input("Digite * ou /: ")
 
 
    for tabuada in range(1, 11):
